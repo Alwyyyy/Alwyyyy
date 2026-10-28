@@ -1,6 +1,6 @@
 <!-- Banner Atas -->
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/989739038795763764/1565068520457248849/Untitled_Design6.png?ex=6ae38f24&is=6ae23da4&hm=cf5bb8630fca5aca0e8c3811a3771a656d482739356a5e36a4136ef226874f4f&=&format=webp&quality=lossless&width=640&height=320" width="100%" alt="Header Banner" />
+  <img src="https://i.postimg.cc/Ss33jHr1/Untitled-Design(6).png" width="100%" alt="Header Banner" />
 </p>
 
 <!-- Animasi Typing Header -->
