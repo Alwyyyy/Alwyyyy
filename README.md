@@ -19,14 +19,15 @@
 
 ### About Me
 
-<img align="right" src="https://media1.tenor.com/m/ZlidzBHem-IAAAAd/hiura-mihate-koisuru.gif" width="220" alt="Hiura Mihate" style="border-radius: 10px;" />
+<img align="right" src="https://media1.tenor.com/m/ZlidzBHem-IAAAAd/hiura-mihate-koisuru.gif" width="220" alt="Hiura Mihate" style="border-radius: 10px; margin-left: 15px;" />
 
-- 🎓 **Focus:** Informatics Student & Self-taught Game Developer
-- 📍 **Based in:** Sukabumi, Indonesia
-- 🛠️ **Currently Building:** Interactive story game mechanics & custom systems
-- 🎮 **Engines:** Godot Engine • Roblox Studio (Luau)
-- 🐧 **Environment:** Linux (Bazzite) • Windows
-- ☕ **Interests:** OS Modding, Pixel Art, Game Mechanics & Tech Tinkering
+> ### 👾 Developer Status
+> - 🎓 **Focus:** Informatics Student & Game Developer
+> - 📍 **Based in:** Sukabumi, Indonesia
+> - 🛠️ **Currently Building:** "Jejak di Balik Layar" (2D Pixel Art Narrative Game)
+> - 🎮 **Engines:** Godot Engine • Roblox Studio (Luau)
+> - 🐧 **Environment:** Linux (Bazzite) • Windows
+> - ☕ **Interests:** OS Modding, Custom Kernels, Pixel Art & Tech Tinkering
 
 <br clear="both">
 
