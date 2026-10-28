@@ -58,7 +58,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,lua,html,css,godot,linux,windows,vscode,git,github,antigravity&perline=6&theme=dark" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,lua,html,css,godot,linux,windows,vscode,git,github&perline=6&theme=dark" alt="Tech Stack Icons" />
   </a>
 </p>
 
