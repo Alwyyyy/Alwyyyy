@@ -5,7 +5,7 @@
 
 <!-- Animasi Teks Mengetik -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=F38BA8&center=true&vCenter=true&width=460&lines=%E2%9C%A8+Hi+there%2C+I'm+Alwyyyy!;%F0%9F%8E%AE+Game+Developer+%26+System+Tinkerer;%F0%9F%90%A7+Linux+Enthusiast+(Bazzite);%F0%9F%92%A1+Turning+ideas+into+creative+projects!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=600&size=16&pause=1200&color=F38BA8&center=true&vCenter=true&width=460&lines=%F0%9F%8E%AE+Game+Developer;%E2%9C%A8+Hi+there%2C+I'm+Alwyyyy!;%F0%9F%90%A7+Linux+Tinkerer+(Bazzite);%F0%9F%92%A1+Creative+Projects" alt="Typing SVG" /></a>
 </p>
 
 <!-- Tombol Medsos -->
@@ -19,9 +19,9 @@
 
 ### About Me
 
-<table border="0">
+<table>
   <tr>
-    <td width="75%" valign="top">
+    <td width="65%" valign="middle">
       <ul>
         <li>🎓 <b>Focus:</b> Informatics Student & Self-taught Game Developer</li>
         <li>📍 <b>Based in:</b> Sukabumi, Indonesia</li>
@@ -31,8 +31,8 @@
         <li>☕ <b>Interests:</b> OS Modding, Pixel Art, Game Mechanics & Tech Tinkering</li>
       </ul>
     </td>
-    <td width="25%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Pat.gif" width="120px" alt="Pixel Mascot" />
+    <td width="35%" align="center" valign="middle">
+      <img src="https://media1.tenor.com/m/ZlidzBHem-IAAAAd/hiura-mihate-koisuru.gif" width="190px" alt="Hiura Mihate" style="border-radius: 10px;" />
     </td>
   </tr>
 </table>
@@ -48,11 +48,6 @@
 </p>
 
 ---
-
-<!-- GIF Bawah -->
-<p align="center">
-  <img src="https://media1.tenor.com/m/ZlidzBHem-IAAAAd/hiura-mihate-koisuru.gif" width="360px" alt="Hiura Mihate" style="border-radius: 8px;" />
-</p>
 
 <p align="center">
   <sub>Made with 💙 by <b>Alwyyyy</b></sub>
