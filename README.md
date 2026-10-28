@@ -19,23 +19,9 @@
 
 ### About Me
 
-<table width="100%">
-  <tr>
-    <td width="68%" valign="middle">
-      <ul>
-        <li>🎓 <b>Focus:</b> Informatics Student & Self-taught Game Developer</li>
-        <li>📍 <b>Based in:</b> Sukabumi, Indonesia</li>
-        <li>🛠️ <b>Currently Building:</b> Interactive story game mechanics & custom systems</li>
-        <li>🎮 <b>Engines:</b> Godot Engine • Roblox Studio (Luau)</li>
-        <li>🐧 <b>Environment:</b> Linux (Bazzite) • Windows</li>
-        <li>☕ <b>Interests:</b> OS Modding, Pixel Art, Game Mechanics & Tech Tinkering</li>
-      </ul>
-    </td>
-    <td width="32%" align="center" valign="middle">
-      <img src="https://media1.tenor.com/m/ZlidzBHem-IAAAAd/hiura-mihate-koisuru.gif" width="220px" alt="Hiura Mihate" style="border-radius: 10px;" />
-    </td>
-  </tr>
-</table>
+| ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ | ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ |
+| :--- | :---: |
+| • 🎓 **Focus:** Informatics Student & Self-taught Game Developer<br>• 📍 **Based in:** Sukabumi, Indonesia<br>• 🛠️ **Currently Building:** Interactive story game mechanics & custom systems<br>• 🎮 **Engines:** Godot Engine • Roblox Studio (Luau)<br>• 🐧 **Environment:** Linux (Bazzite) • Windows<br>• ☕ **Interests:** OS Modding, Pixel Art, Game Mechanics & Tech Tinkering | <img src="https://media1.tenor.com/m/ZlidzBHem-IAAAAd/hiura-mihate-koisuru.gif" width="230px" alt="Hiura Mihate" style="border-radius: 10px;" /> |
 
 ---
 
