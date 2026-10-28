@@ -18,32 +18,19 @@
 
 ---
 
-### ✨ About Me
+### About Me
 
-<img align="right" src="https://media1.tenor.com/m/ZlidzBHem-IAAAAd/hiura-mihate-koisuru.gif" width="235" alt="Hiura Mihate" />
+<img align="right" src="https://media1.tenor.com/m/ZlidzBHem-IAAAAd/hiura-mihate-koisuru.gif" width="220" alt="Hiura Mihate" style="border-radius: 10px; margin-left: 15px;" />
 
-<table>
-  <tr>
-    <td>🎓 <b>Role:</b> <kbd>Informatics Student</kbd> & <kbd>Indie Game Developer</kbd></td>
-  </tr>
-  <tr>
-    <td>📍 <b>Location:</b> Sukabumi, West Java, Indonesia 🇮🇩</td>
-  </tr>
-  <tr>
-    <td>🛠️ <b>Currently Building:</b> <kbd>Jejak di Balik Layar</kbd> (2D Pixel Narrative Game)</td>
-  </tr>
-  <tr>
-    <td>🎮 <b>Game Engines:</b> <kbd>Godot Engine</kbd> • <kbd>Roblox Studio (Luau)</kbd></td>
-  </tr>
-  <tr>
-    <td>🐧 <b>Environment:</b> <kbd>Linux (Bazzite)</kbd> • <kbd>Windows</kbd></td>
-  </tr>
-  <tr>
-    <td>💙 <b>Love to:</b> Code • Mod OS/Kernels • Draw Pixel Art • Gaming</td>
-  </tr>
-</table>
+> ### 👾 Developer Status
+> - 🎓 **Focus:** Informatics Student & Game Developer
+> - 📍 **Based in:** Sukabumi, Indonesia
+> - 🛠️ **Currently Building:** "Jejak di Balik Layar" (2D Pixel Art Narrative Game)
+> - 🎮 **Engines:** Godot Engine • Roblox Studio (Luau)
+> - 🐧 **Environment:** Linux (Bazzite) • Windows
+> - ☕ **Interests:** OS Modding, Custom Kernels, Pixel Art & Tech Tinkering
 
-<br clear="both" />
+<br clear="both">
 
 ---
 
