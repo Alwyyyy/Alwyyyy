@@ -20,7 +20,7 @@
 
 ### About Me
 
-<img align="right" src="https://media1.tenor.com/m/ZlidzBHem-IAAAAd/hiura-mihate-koisuru.gif" width="220" alt="Hiura Mihate" style="border-radius: 10px; margin-left: 15px;" />
+<img align="right" src="https://media1.tenor.com/m/ZlidzBHem-IAAAAd/hiura-mihate-koisuru.gif" width="220" alt="Hiura Mihate" />
 
 > ### 👾 Developer Status
 > - 🎓 **Focus:** Informatics Student & Game Developer
@@ -36,13 +36,26 @@
 
 ### 📊 GitHub Analytics & Activity
 
+<!-- Anime Moe Visitor Counter -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alwyyyy&theme=tokyonight" width="48%" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alwyyyy&theme=tokyonight&hide_border=true&background=1A1B27&ring=F38BA8&fire=F38BA8&currStreakLabel=F38BA8" width="48%" alt="Streak" />
+  <img src="https://count.getloli.com/@Alwyyyy?name=Alwyyyy&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Moe Counter" />
 </p>
 
+<!-- Baris 1: Stats & Streak (Ukuran & Warna Seragam) -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alwyyyy&bg_color=0D1117&color=F38BA8&line=CBA6F7&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alwyyyy&show_icons=true&bg_color=0D1117&title_color=F38BA8&text_color=CDD6F4&icon_color=CBA6F7&border_color=30363D&border_radius=12&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alwyyyy&background=0D1117&border=30363D&stroke=30363D&ring=F38BA8&fire=CBA6F7&currStreakNum=CDD6F4&sideNums=CDD6F4&currStreakLabel=F38BA8&sideLabels=CBA6F7&dates=6C7086&border_radius=12" height="180" alt="Streak Stats" />
+</p>
+
+<!-- Baris 2: Summary Profile & Bahasa Pemrograman -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alwyyyy&theme=github_dark" width="62%" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alwyyyy&theme=github_dark" width="35%" alt="Top Languages" />
+</p>
+
+<!-- Baris 3: Contribution Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alwyyyy&bg_color=0D1117&color=F38BA8&line=CBA6F7&point=FFFFFF&area=true&area_color=F38BA8&hide_border=false&border_color=30363D&radius=12" width="98%" alt="Activity Graph" />
 </p>
 
 ---
