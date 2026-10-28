@@ -8,25 +8,13 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F38BA8&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Alwyyyy!+%E2%9C%A8;Game+Developer+%26+System+Tinkerer;Building+2D+Games+%26+Exploring+Linux;Turning+Ideas+into+Interactive+Worlds" alt="Typing SVG" /></a>
 </p>
 
-<!-- Socials & Profile Visitor Counter -->
+<!-- Socials & Profile Visitor Counter (Sudah Fix Tanpa Error Merah) -->
 <p align="center">
   <a href="https://www.instagram.com/alwyraff1/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
   <a href="https://www.tiktok.com/@mysuuuuur"><img src="https://img.shields.io/badge/TikTok-18181B?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>&nbsp;
   <a href="mailto:alwirafi069@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=Alwyyyy-v2&label=Profile%20Views&color=f38ba8&style=for-the-badge" alt="Profile Views" />
 </p>
-
-<!-- Music Player: Impostor Syndrome -->
-<div align="center">
-  <p>🎧 <b>Now Playing:</b> Impostor Syndrome — <i>Sidney Gish</i></p>
-  <p>
-    <code>01:14 ━━━━●───────── 03:26</code> &nbsp; ⇆ ◁ ❚❚ ▷ ↻
-  </p>
-  <p>
-    <a href="https://open.spotify.com/search/Impostor%20Syndrome"><img src="https://img.shields.io/badge/Listen_on_Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Spotify" /></a>&nbsp;
-    <a href="https://www.youtube.com/results?search_query=Impostor+Syndrome+song"><img src="https://img.shields.io/badge/Play_on_YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  </p>
-</div>
 
 ---
 
@@ -38,7 +26,7 @@
 > - 🎓 **Focus:** Informatics Student & Game Developer
 > - 📍 **Based in:** Sukabumi, Indonesia
 > - 🛠️ **Currently Building:** "Jejak di Balik Layar" (2D Pixel Art Narrative Game)
-> - 🎮 **Engines & AI Workflow:** Godot Engine • Roblox Studio (Luau) • Antigravity
+> - 🎮 **Engines:** Godot Engine • Roblox Studio (Luau)
 > - 🐧 **Environment:** Linux (Bazzite) • Windows
 > - ☕ **Interests:** OS Modding, Custom Kernels, Pixel Art & Tech Tinkering
 
@@ -48,12 +36,12 @@
 
 ### 📊 GitHub Analytics & Activity
 
-<!-- Anime Moe Visitor Counter -->
+<!-- Anime Moe Visitor Counter (Reset ke 0) -->
 <p align="center">
   <img src="https://count.getloli.com/@Alwyyyy-v2?name=Alwyyyy-v2&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="Moe Counter" />
 </p>
 
-<!-- Baris 1: Stats Card & Streak Stats -->
+<!-- Baris 1: Stats Card & Streak Stats (100% Stabil & Sejajar) -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alwyyyy&theme=tokyonight" height="165" alt="GitHub Stats" />&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alwyyyy&theme=tokyonight&hide_border=true&background=1A1B27&ring=F38BA8&fire=F38BA8&currStreakLabel=F38BA8" height="165" alt="Streak Stats" />
@@ -70,13 +58,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,lua,html,css,godot,linux,windows,vscode,git,github&perline=6&theme=dark" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=cpp,python,lua,html,css,godot,linux,windows,vscode,git,github,antigravity&perline=6&theme=dark" alt="Tech Stack Icons" />
   </a>
-</p>
-
-<!-- Custom Badge untuk Antigravity -->
-<p align="center">
-  <img src="https://img.shields.io/badge/⚡_Antigravity-AI_Agent_Workflow-CBA6F7?style=for-the-badge&labelColor=1A1B27" alt="Antigravity" />
 </p>
 
 ---
