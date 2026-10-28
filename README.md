@@ -20,5 +20,5 @@
 ---
 
 ### Tech Stack & Tools
-* **Languages:** C++, Python, JavaScript, HTML/CSS
-* **Tools & OS:** Linux (Bazzite), Git, VS Code, Godot Engine
+* **Languages:** C++, Python, Luau, HTML/CSS
+* **Tools & OS:** Linux (Bazzite), Windows, Git, VS Code, Godot Engine, Roblox Studio
