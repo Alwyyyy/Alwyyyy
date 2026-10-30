@@ -5,7 +5,7 @@
 
 <!-- Animasi Typing Header -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F38BA8&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Alwyyyy!+%E2%9C%A8;Game+Developer+%26+System+Tinkerer;Building+2D+Games+%26+Exploring+Linux;Turning+Ideas+into+Interactive+Worlds" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=F38BA8&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Alwyyyy!+%E2%9C%A8;Game+Developer+%26+System+Tinkerer;Building+2D+Games;Turning+Ideas+into+Interactive+Worlds" alt="Typing SVG" /></a>
 </p>
 
 <!-- Socials & Profile Visitor Counter (Sudah Fix Tanpa Error Merah) -->
